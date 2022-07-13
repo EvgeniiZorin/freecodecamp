@@ -1,0 +1,15 @@
+
+codeally@2af1b50adcc2:~/project/sql_reference$ git log --oneline
+06d17cf (HEAD -> main) feat: add .gitignore and sample.env
+7c213c0 fix: add missing rename references
+69c8fac feat: add column references
+00da33c feat: add delete row reference
+9fca65c feat: add update row reference
+463af74 feat: add insert row reference
+675f9e1 fix: create table syntax
+0dcbc17 feat: add drop table reference
+6754700 feat: add create table reference
+ccff4b6 feat: add drop database reference
+cd70873 feat: add create database reference
+87435c2 Initial commit
+
